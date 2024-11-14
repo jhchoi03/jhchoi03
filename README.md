@@ -1,5 +1,5 @@
 # ⚡ AI/Backend Developer 
-
+배워가는 중
 <!--
 **jhchoi03/jhchoi03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
