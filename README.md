@@ -1,5 +1,6 @@
 # ⚡ AI/Backend Developer 
-배워가는 중
+Aspiring AI Developer
+
 <!--
 **jhchoi03/jhchoi03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -29,3 +30,11 @@ Here are some ideas to get you started:
 - Frontend: React
 - Programming Languages: Python, C/C++, JAVA, DART 
 - Artificial Intelligence: Still Learning... (interested in NLP)
+
+
+## 개발 성과
+- 2024, WINTER : QSTORAGE(Question Bank for PandaEdu) is equipped with OMR and computer vision-based AI features!
+- 2024, SUMMER : DoDream Consulting Development project for students.
+- 2023, FALL : PandaEdu LMS opened!
+- 2023, SUMMER : PandaEdu Admin Page opened!
+- 2023, SUMMER : HangaStay(Accomodation Company) Review Page opened!
