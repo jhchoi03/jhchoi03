@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## Now
+- 2022, SPRING ~ now : Student (Dept. Computer Science and Engineering at Inha Univ.)
 - 2022, SUMMER ~ now : PandaEdu Web/AI Developer.
 - 2024, SUMMER ~ now : Leader of the AI Club SINSA at Inha University (prof. Young-Duk, Seo).
 
