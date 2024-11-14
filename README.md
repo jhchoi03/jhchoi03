@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 ## Development Achievements (For Commercial Use Only, Private Project)
 - 2024, WINTER : QSTORAGE(Question Bank for PandaEdu) is equipped with OMR and computer vision-based AI features!
-- 2024, SUMMER : DoDream Consulting Development project for students.
-- 2023, FALL : PandaEdu LMS opened!
-- 2023, SUMMER : PandaEdu Admin Page opened!
-- 2023, SUMMER : HangaStay(Accomodation Company) Review Page opened!
+- 2024, SUMMER : DoDream Consulting Development project for students was opened!.
+- 2023, FALL : PandaEdu LMS was opened!
+- 2023, SUMMER : PandaEdu Admin Page was opened!
+- 2023, SUMMER : HangaStay(Accomodation Company) Review Page was opened!
