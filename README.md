@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Now
-- 2022, SPRING ~ now : Student (Dept. Computer Science and Engineering at Inha Univ.)
-- 2022, SUMMER ~ now : PandaEdu Web/AI Developer.
-- 2024, SUMMER ~ now : Leader of the AI Club SINSA at Inha University (prof. Young-Duk, Seo).
+## Current
+- 2022, SPRING ~ present : Student (Dept. Computer Science and Engineering at Inha Univ.)
+- 2022, SUMMER ~ present : PandaEdu Web/AI Developer.
+- 2024, SUMMER ~ present : Leader of the AI Club SINSA at Inha University (prof. Young-Duk, Seo).
 
 ## Previous
 - 2023, SUMMER : Undergraduate Researcher at AI Research Group (prof. YOUNG-SUNG KIM) at Inha University.
