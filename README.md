@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 - Artificial Intelligence: Still Learning... (interested in NLP)
 
 
-## 개발 성과
+## Development Achievements (For Commercial Use Only, Private Project)
 - 2024, WINTER : QSTORAGE(Question Bank for PandaEdu) is equipped with OMR and computer vision-based AI features!
 - 2024, SUMMER : DoDream Consulting Development project for students.
 - 2023, FALL : PandaEdu LMS opened!
