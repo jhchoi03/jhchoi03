@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 - Backend: FastAPI (usually), Spring Framework
 - Frontend: React
 - Programming Languages: Python, C/C++, JAVA, DART 
-- Artificial Intelligence: Still Learning... (interested in NLP)
+- Artificial Intelligence: Still Learning... (interested in GNN)
 
 
 ## Development Achievements (For Commercial Use Only, Private Project)
