@@ -20,10 +20,11 @@ Here are some ideas to get you started:
 - 2022, SPRING ~ present : Student (Dept. Computer Science and Engineering at Inha Univ.)
 - 2022, SUMMER ~ present : PandaEdu Web/AI Developer.
 - 2024, SUMMER ~ present : Leader of the AI Club SINSA at Inha University (prof. Young-Duk, Seo).
+- 2024, WINTER ~ present : Undergraduate Researcher at KDD Lab.  (prof. YOUNG-SUNG KIM, Inha University)
+
 
 ## Previous
-- 2023, SUMMER : Undergraduate Researcher at AI Research Group (prof. YOUNG-SUNG KIM) at Inha University.
-
+- 2023, SUMMER : Undergraduate Researcher at AI Research Group (prof. YOUNG-SUNG KIM, Inha University)
 
 ## Stack
 - Backend: FastAPI (usually), Spring Framework
